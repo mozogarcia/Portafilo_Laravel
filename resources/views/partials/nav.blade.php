@@ -1,6 +1,6 @@
 <nav class="navbar navbar-light navbar-expand-lg shadow-sm">
     <div class="container">
-    <a class="navbar-brand pt-0" href="{{ route('home') }}"><img class="img-fluid" height="20px;" width="40px;" src="/img/log.svg" alt="Desarrollo web"></a>
+    <a class="navbar-brand pt-0" href="{{ route('home') }}"><img class="img-fluid" height="20px;" width="40px;" src="/img/uluterana.jpg" alt="Desarrollo web"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="{{ __('Toggle navigation') }}">
         <span class="navbar-toggler-icon"></span>
     </button>

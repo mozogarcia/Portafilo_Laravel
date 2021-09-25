@@ -21,8 +21,8 @@
         @yield('content')
     </main>
 
-    <footer class="bg-white text-center text-black py-3 shadow">
-        {{ config('app.name') }} | Copyrigh@Henrry.Caceres {{ date('Y') }}
+    <footer class="bg-white text-center text-blue py-4 shadow">
+        {{ config('app.name') }} JOSUE EZEQUIEL MOZO GARCIA {{ date('Y') }}
     </footer>
 </div> 
 </body>
